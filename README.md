@@ -1,6 +1,6 @@
 im mighty!
 - i like archery, rock climbing and other sports!
-- im learning batchfile and python!
+- im learning batchfile and python + html!
 - my email: aea552720@gmail.com discord: 4_mighty_4
 - my website: https://mightyswebsite.carrd.co
 
